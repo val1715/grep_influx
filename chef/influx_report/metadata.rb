@@ -1,0 +1,5 @@
+name        'influx_report'
+maintainer  'ValeriiOlefir'
+license     'All Rights Reserved'
+description 'Installs/Configures influx_report'
+version     '0.1.5'
